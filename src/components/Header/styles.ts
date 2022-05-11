@@ -1,8 +1,6 @@
 import styled from "styled-components";
-import logoHeader from '../../public/logo.svg';
 
-
-const HeaderContainer = styled.header`
+export const HeaderContainer = styled.header`
     overflow: hidden;
     padding: 1rem 5rem;
     background: transparent;
@@ -10,7 +8,7 @@ const HeaderContainer = styled.header`
     justify-content: space-between;
 `;
 
-const BrandLogo = styled.div`
+export const BrandLogo = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +19,7 @@ const BrandLogo = styled.div`
     }
 `;
 
-const ListMenu = styled.ul`
+export const ListMenu = styled.ul`
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -44,22 +42,3 @@ const ListMenu = styled.ul`
     }  
     } 
 `;
-
-
-export function Header() {
-    return (
-        <HeaderContainer>
-            <BrandLogo>
-                <img src={logoHeader} alt="Logo Unsplash" />
-            </BrandLogo>
-            <ListMenu>
-                <li>
-                    <a href="">Home</a>
-                </li>
-                <li>
-                    <a href="">sla</a>
-                </li>
-            </ListMenu>
-        </HeaderContainer>
-    );
-}

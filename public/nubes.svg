@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 322.79 248.83" version="1.0">
+  <defs id="defs4">
+    <radialGradient id="radialGradient6368" gradientUnits="userSpaceOnUse" cy="394.64" cx="254.25" gradientTransform="matrix(1.2661 -.13912 .099748 .90778 -112.96 81.977)" r="146.59">
+      <stop id="stop6364" stop-color="#f9feff" offset="0"/>
+      <stop id="stop6454" stop-color="#d3e7f0" offset=".76389"/>
+      <stop id="stop6366" stop-color="#7e96ac" offset="1"/>
+    </radialGradient>
+    <radialGradient id="radialGradient6386" gradientUnits="userSpaceOnUse" cy="672.9" cx="137.33" gradientTransform="matrix(1.602 -4.3928e-7 3.2317e-7 1.1786 -81.826 -115.45)" r="63.578">
+      <stop id="stop6382" stop-color="#fff" offset="0"/>
+      <stop id="stop3804" stop-color="#f1f9fd" offset=".44985"/>
+      <stop id="stop6388" stop-color="#e3f3fb" offset=".61111"/>
+      <stop id="stop6384" stop-color="#728e9d" offset="1"/>
+    </radialGradient>
+    <filter id="filter6390" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6392" stdDeviation="1.1742464"/>
+    </filter>
+    <filter id="filter6456" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6458" stdDeviation="3.8242965"/>
+    </filter>
+    <linearGradient id="linearGradient6474" y2="328.36" gradientUnits="userSpaceOnUse" y1="557.77" x2="229.3" x1="273.47">
+      <stop id="stop6470" stop-color="#9aaebb" offset="0"/>
+      <stop id="stop6472" stop-color="#9aaebb" stop-opacity=".18584" offset="1"/>
+    </linearGradient>
+    <filter id="filter6476" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6478" stdDeviation="2.357466"/>
+    </filter>
+    <filter id="filter6488" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6490" stdDeviation="2.3484927"/>
+    </filter>
+    <filter id="filter6496" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6498" stdDeviation="2.3513545"/>
+    </filter>
+    <filter id="filter6504" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6506" stdDeviation="3.6041679"/>
+    </filter>
+    <filter id="filter6512" width="1.2216" y="-.13084" x="-.11082" height="1.2617" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6514" stdDeviation="5.8712318"/>
+    </filter>
+    <filter id="filter6520" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6522" stdDeviation="3.5498832"/>
+    </filter>
+    <filter id="filter6524" width="1.2219" y="-.131" x="-.11095" height="1.262" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6526" stdDeviation="5.8783863"/>
+    </filter>
+    <filter id="filter6528" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur6530" stdDeviation="3.5258828"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-108.54 -322.04)">
+    <path id="path6352" opacity=".3139" style="color:#000000" d="m249.2 337.47c-44.234 0-80.212 22.669-81.094 50.844-26.123 8.7436-44.125 27.126-44.125 48.406 0 13.095 6.7951 25.103 18.125 34.438-0.82581 2.7311-1.25 5.5165-1.25 8.375 0 20.01 21.06 37.311 51.75 45.75 10.749 17.653 37.535 30.156 68.906 30.156 26.442 0 49.612-8.8873 62.688-22.25 0.005-0.005 0.0261 0.005 0.0312 0 2.0008 0.12506 4.0176 0.1875 6.0625 0.1875 38.696 0 70.062-22.945 70.062-51.25 0-4.7885-0.91461-9.4159-2.5938-13.812 11.433-9.8773 18.156-21.888 18.156-34.844 0-17.392-12.118-33.047-31.5-44.156-10.512-25.907-34.852-44.062-63.219-44.062-7.4677 0-14.643 1.2679-21.375 3.5938-13.879-7.1148-31.459-11.375-50.625-11.375z" filter="url(#filter6456)" stroke="#000" stroke-width="12.5"/>
+    <path id="path6325" style="color:#000000" d="m247.2 333.47c-44.234 0-80.212 22.669-81.094 50.844-26.123 8.7436-44.125 27.126-44.125 48.406 0 13.095 6.7951 25.103 18.125 34.438-0.82581 2.7311-1.25 5.5165-1.25 8.375 0 20.01 21.06 37.311 51.75 45.75 10.749 17.653 37.535 30.156 68.906 30.156 26.442 0 49.612-8.8873 62.688-22.25 0.005-0.005 0.0261 0.005 0.0312 0 2.0008 0.12506 4.0176 0.1875 6.0625 0.1875 38.696 0 70.062-22.945 70.062-51.25 0-4.7885-0.91461-9.4159-2.5938-13.812 11.433-9.8773 18.156-21.888 18.156-34.844 0-17.392-12.118-33.047-31.5-44.156-10.512-25.907-34.852-44.062-63.219-44.062-7.4677 0-14.643 1.2679-21.375 3.5938-13.879-7.1148-31.459-11.375-50.625-11.375z" stroke="url(#linearGradient6474)" stroke-linecap="round" stroke-width="1.25" fill="url(#radialGradient6368)"/>
+    <path id="path6394" opacity=".77578" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.75671 0 0 .75671 172.63 -24.124)" filter="url(#filter6390)" fill="url(#radialGradient6386)"/>
+    <path id="path6370" opacity=".77578" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="translate(58.634 -227.69)" filter="url(#filter6488)" fill="url(#radialGradient6386)"/>
+    <path id="path6402" opacity=".77578" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.97167 0 0 .94562 114.39 -204.11)" filter="url(#filter6524)" fill="url(#radialGradient6386)"/>
+    <path id="path6414" opacity=".77578" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.97167 0 0 .94562 191.67 -183.25)" filter="url(#filter6496)" fill="url(#radialGradient6386)"/>
+    <path id="path6406" opacity=".47534" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.93796 0 0 .87006 48.802 -169.17)" filter="url(#filter6476)" fill="url(#radialGradient6386)"/>
+    <path id="path6398" opacity=".77578" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.75671 0 0 .75671 171.66 -99.055)" filter="url(#filter6512)" fill="url(#radialGradient6386)"/>
+    <path id="path6410" opacity=".26906" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.60916 0 0 .53345 234.88 10.977)" filter="url(#filter6520)" fill="url(#radialGradient6386)"/>
+    <path id="path6434" opacity=".52018" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(.89850 0 0 .88045 221.24 -177.67)" filter="url(#filter6528)" fill="url(#radialGradient6386)"/>
+    <path id="path6438" opacity=".55157" style="color:#000000" d="m208.9 694.82c0 29.739-28.465 53.847-63.578 53.847s-63.578-24.108-63.578-53.847 28.465-53.847 63.578-53.847 63.578 24.108 63.578 53.847z" transform="matrix(1.1204 0 0 .83454 79.417 -198.05)" filter="url(#filter6504)" fill="url(#radialGradient6386)"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Internet Cloud</dc:title>
+        <dc:date>2012-02-10T18:58:13</dc:date>
+        <dc:description>Internet cloud</dc:description>
+        <dc:source>http://openclipart.org/detail/168090/internet-cloud-by-tdhoward75</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>tdhoward75</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>WAN</rdf:li>
+            <rdf:li>WWW</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>internet</rdf:li>
+            <rdf:li>net</rdf:li>
+            <rdf:li>network</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
