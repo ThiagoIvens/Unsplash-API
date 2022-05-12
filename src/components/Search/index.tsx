@@ -8,12 +8,12 @@ export default function Search(props: any) {
     return (
         <SearchContainer>
             <h1>
-                Bem Vindo a minha Versão Unsplash!
+                Welcome to Nubes!
             </h1>
-            <span>Todos créditos a Unsplash API</span>
+            <span>A project using the <a href="https://unsplash.com/" target="_blank">Unsplash API</a>!</span>
             <div>
-                <input id="searchInput" type="search" onChange={(e) => setSearchValue(e.target.value)}/>
-                <button onClick={()=> props.search(searchValue)}>buscar</button>
+                <input id="searchInput" type="search" placeholder="Search..." onChange={(e) => setSearchValue(e.target.value)}/>
+                <button onClick={()=> props.search(searchValue)}>Buscar</button>
             </div>
         </SearchContainer>
     )

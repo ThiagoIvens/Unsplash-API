@@ -9,6 +9,19 @@ const GlobalStyle = createGlobalStyle`
         overflow-x: scroll;
         margin-bottom: 50px;
     }
+
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: var(--white-blue-300);
+        opacity: 1; /* Firefox */
+    }
+
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: var(--white-blue-300);
+    }
+
+    ::-ms-input-placeholder { /* Microsoft Edge */
+        color: var(--white-blue-300);
+    }
     
     .flex-container {
         display: flex;

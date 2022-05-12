@@ -6,11 +6,11 @@ export function Header() {
     return (
         <HeaderContainer>
             <BrandLogo>
-                <img src={logoHeader} alt="Logo Unsplash" />
+                <a href="/"><img src={logoHeader} alt="Logo Unsplash" /></a>
             </BrandLogo>
             <ListMenu>
                 <li>
-                    <a href="">Home</a>
+                    <a href="/">Home</a>
                 </li>
             </ListMenu>
         </HeaderContainer>

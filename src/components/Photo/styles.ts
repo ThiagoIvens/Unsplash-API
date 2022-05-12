@@ -47,5 +47,15 @@ export const Card = styled.div`
                 margin-inline: .5rem;
             }
         }
+
+        .link-download {
+            margin-left: auto;
+            margin-right: 1rem;
+
+            img {
+                width: 10px;
+                height: 10px;
+            }
+        }
     }
 `;
