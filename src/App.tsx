@@ -38,9 +38,21 @@ interface ApiProps {
 export default function App() {
   const [results, setResults] = useState([]);
 
+  const arrQuerys = ['random', 'modern', 'abstract', 'anime', 'aleatorio', 'destiny', 'city', 'urban', 'animals', 'theme']
+  let searchInitial =  arrQuerys[Math.floor(Math.random()*arrQuerys.length)];
+
+  async function loadInitial() {
+    const response = await axios.get('https://api.unsplash.com/search/photos/?client_id=59nlfS54cKwxhwBA162QGHJx5rpwGcMMxUZxP1KeYGo&per_page=25&query='+searchInitial);
+    setResults(response.data.results);
+  }
+
+  useEffect(()=> {
+    loadInitial()
+  }, [])
+
   async function handleSearch(search: string) {
     const response = await axios.get(
-      "https://api.unsplash.com/search/photos/?client_id=59nlfS54cKwxhwBA162QGHJx5rpwGcMMxUZxP1KeYGo&query=" +
+      "https://api.unsplash.com/search/photos/?client_id=59nlfS54cKwxhwBA162QGHJx5rpwGcMMxUZxP1KeYGo&per_page=25&query=" +
         search
     );
 
@@ -53,8 +65,7 @@ export default function App() {
       <Search search={handleSearch} />
 
       <ContainerFlex>
-        {results.length > 0 &&
-          results.map((result: ApiProps) => <Photo result={result} />)}
+        {results.length > 0 && results.map((result: ApiProps) => <Photo result={result} />)}
       </ContainerFlex>
         <Footer />
       <GlobalStyle />

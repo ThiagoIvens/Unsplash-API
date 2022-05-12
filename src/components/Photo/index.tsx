@@ -1,7 +1,6 @@
 import { Card } from "./styles";
 
 export default function Photo(props: any) {
-  console.log(props);
 
   const download = (e: any) => {
     e.preventDefault();
